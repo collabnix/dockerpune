@@ -1,18 +1,17 @@
-# Docker Birthday #6 Celebration - Show-And-Tell
+# Docker Pune Meetup : Docker & Kubernetes
 
-## Venue: DellEMC
+## Venue: Persistent Systems Ltd
 
 ## Slides
 
 
 | Topic        | Presentation          | 
 | ------------- |:-------------:| 
-| GigaHex - Sandbox Environment for Big Data Application by [Shad Amez, Expedia](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiV6rr9q67hAhWUyIsBHW4KC1UQFjAAegQIABAB&url=https%3A%2F%2Fin.linkedin.com%2Fin%2Fshadamez&usg=AOvVaw267Pga2VsphnDQhkb9WRO-)| [Slides](https://slides.com/shadamez/gigahex-alpha/fullscreen#/) | 
-| Box-Exec  - by [Akshit Grover, VIT](https://in.linkedin.com/in/akshit-grover) | [Slides](http://slides.com/akshitgrover/box-exec/fullscreen) |  |
-| Device Simulation at Scale using Docker Swarm by [Hemanth Gaikwad, DellEMC](https://in.linkedin.com/in/hemant-gaikwad-21b9834)| [-](-) |  |
-| Distributed WorkLoad Testing Using Docker Containers by [Visnu Murty, DellEMC](https://www.linkedin.com/in/vishnu-murty) | [-](-) | 
-| Flipper - Tiny Cloud on Browser using Docker by [Shivam Yaduka, VIT](https://in.linkedin.com/in/shivam-yaduka) | [Slides](http://slides.com/shivam-yaduka/organize-your-decks/fullscreen/#/) | 
-| Comparative Study of Hadoop over Virtual Machine Vs Docker Containers by [Shivankit Bagla](https://in.linkedin.com/in/shivankitbagla)  | [Slides](http://slides.com/shivankit_bagla/deck) | 
+| Docker Introduction by [Anand Bhagwat, QiO](https://www.linkedin.com/in/anand-bhagwat/)| [Slides](https://docs.google.com/presentation/d/1lngdOPpcba1OLzRXEzt0rq508B3FJOAXRFmqM5Veofw/edit#slide=id.gcb9a0b074_1_0) | 
+| Docker Beginner Track - by [Apurva Bhandari](https://in.linkedin.com/in/apurvabhandari-linux?trk=people-guest_profile-result-card_result-card_full-click) | [Slides](https://github.com/collabnix/dockerlabs/blob/master/workshop/docker/README.md) |  |
+| Anand Docker Storage And Volumes by [Anand Bhagwat,QiO](https://www.linkedin.com/in/anand-bhagwat/) | [Slides](https://docs.google.com/presentation/d/1X1YvETorILzlLebUU1xr2HHXzz3Wl9qP74AUfDpcTRY/edit#slide=id.g5e7775062d_0_127) | 
+| Docker CICD Pipeline by [Sagar Utekar, Avaya](https://in.linkedin.com/in/sagar-utekar-b32750116?trk=people-guest_profile-result-card_result-card_full-click)  | [Slides](http://slides.com/https://drive.google.com/file/d/1deEgLwq3j6OgSYS2mHM1MFITk6cd9C5v/view) | 
+| K8s introduction - by [Apurva Bhandari](https://in.linkedin.com/in/apurvabhandari-linux?trk=people-guest_profile-result-card_result-card_full-click) | [Slides](https://drive.google.com/file/d/1wbn6TTTkLK9KUVt8PeVF6zA1UaDmkzYT/view) | 
 
 ## Images
 
