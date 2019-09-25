@@ -3,7 +3,7 @@
 Welcome to the Docker Pune Meetup Community repo! This repo aims to centralize content (Meetup presentations, slides, recorded videos, etc) curated by the community members for the Docker Meetup Community. The main objective is to help members of the Docker  Meetup community who share similar interests to learn from & collaborate with each other during events. 
 
 
- ![My Image](https://github.com/collabnix/dockerpune/blob/master/images/dockerdocker.png)
+ ![My Image](https://github.com/rakeshkhot5/dockerpune/blob/master/slides/21st-Sep-2019-Docker-and-Kubernetes/images/image1.jpg)
 
  
 # Upcoming Meetup | Conference
@@ -26,7 +26,7 @@ With around 3400+ community member, Docker Pune Meetup group is one of the leadi
 
 With a motto of "Learn, Collaborate & Dockerize!" you get chance to meet other developers and ops engineers in your community that are using and learning about Docker. Docker is an open platform that helps you build, ship and run applications anytime and anywhere. Developers use Docker to modify code and to streamline application development, while operations gain support to quickly and flexibly respond to their changing needs. Docker ensures agility, portability and control for all your distributed apps.
 
-Visit [Docker Pune official Community Page](https://events.docker.com/hyderabad/) for registering to the Community Page.
+Visit [Docker Pune official Community Page](https://events.docker.com/pune/) for registering to the Community Page.
 
 #### [Play with Docker Classroom](http://training.play-with-docker.com/)
 
