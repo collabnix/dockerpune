@@ -9,7 +9,8 @@ Welcome to the Docker Pune Meetup Community repo! This repo aims to centralize c
 # Upcoming Meetup | Conference
 
 
-
+# Recent Events
+[21-Septemeber-2019 - Docker Pune Meetup : Docker & Kubernetes](https://events.docker.com/events/details/docker-pune-presents-docker-pune-meetup-docker-kubernetes/#/)<br>
 
 # Docker Birthday Celebration - Blogs
 
@@ -20,7 +21,7 @@ Welcome to the Docker Pune Meetup Community repo! This repo aims to centralize c
 
 # Resources
 
-#### [Docker Pune Meetup](https://www.meetup.com/Docker-Hyderabad/)
+#### [Docker Pune Meetup](https://www.meetup.com/Docker-Pune/)
 
 With around 3400+ community member, Docker Pune Meetup group is one of the leading Docker meetup group in India.
 
