@@ -10,7 +10,7 @@ Welcome to the Docker Pune Meetup Community repo! This repo aims to centralize c
 
 
 # Recent Events
-[7 December 2019 - Docker Pune Meetup : Hands-on Workshop: Introduction to Docker for Everyone ](https://events.docker.com/events/details/docker-pune-presents-hands-on-workshop-introduction-to-docker-for-everyone/#/) <br>
+[7 December 2019 - Docker Pune Meetup : Hands-on Workshop: Introduction to Docker for Everyone ](https://github.com/collabnix/dockerpune/blob/master/slides/7-Dec-2019-Introduction-to-Docker-for-Everyone/README.md) <br>
 [21-Septemeber-2019 - Docker Pune Meetup : Docker & Kubernetes](https://events.docker.com/events/details/docker-pune-presents-docker-pune-meetup-docker-kubernetes/#/)<br>
 
 # Docker Birthday Celebration - Blogs
